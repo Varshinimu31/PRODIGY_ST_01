@@ -1,5 +1,6 @@
 # Task-01: Write a test case for a simple calculator Application 
-**Application teste**:https://dunizb.github.io/sCalc/ 
+**Application tested** : https://dunizb.github.io/sCalc/ 
+
 ### **Test Case 1**
 
 **Test Case ID:** TC_CALC_001
@@ -132,4 +133,5 @@
 1. Enter `5 ++ 3`
 2. Press `=`
    **Expected Result:** Calculator should handle invalid operator sequence gracefully and show an error or correct expression automatically
+
 
