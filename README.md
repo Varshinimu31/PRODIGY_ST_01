@@ -5,10 +5,10 @@
 Technologies Used: Manual Testing, HTML, CSS, JavaScript (for the calculator)
 
 **How to Run**:
-Open the calculator web page in a browser.
-Perform different test cases for all operations.
-Record the results in the test case table.
+- Open the calculator web page in a browser.
+- Perform different test cases for all operations.
+- Record the results in the test case table.
 
 **Features Tested**:
-Addition, subtraction, multiplication, and division with valid inputs.
-Handling of invalid inputs such as non-numeric characters.
+- Addition, subtraction, multiplication, and division with valid inputs.
+- Handling of invalid inputs such as non-numeric characters.
